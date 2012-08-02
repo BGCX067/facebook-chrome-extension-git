@@ -1,5 +1,5 @@
 {
-"update_url":"https://facebook.com/VenomVendor/",
+"update_url":"https://facebook-chrome-extension.googlecode.com/git/xtras/updates.xml",
   "name": "Facebook",
   "description": "Connect to facebook much fater & safer than ever",
   "version": "1.0",
@@ -7,9 +7,6 @@
     "128": "fb.png"
   },
   "app": {
-    "urls": [
-      "https://www.facebook.com/?ref=VenomVendor"
-    ],
 	"homepage_url": "http://VenomVendor.blogspot.com/",
     "launch": {
       "web_url" : "https://www.facebook.com/?ref=VenomVendor"
