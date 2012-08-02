@@ -1,0 +1,18 @@
+{
+"update_url":"https://facebook.com/VenomVendor/",
+  "name": "Facebook",
+  "description": "Connect to facebook much fater & safer than ever",
+  "version": "1.0",
+  "icons": {
+    "128": "fb.png"
+  },
+  "app": {
+    "urls": [
+      "https://www.facebook.com/?ref=VenomVendor"
+    ],
+	"homepage_url": "http://VenomVendor.blogspot.com/",
+    "launch": {
+      "web_url" : "https://www.facebook.com/?ref=VenomVendor"
+    }
+  }
+}
